@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch/Content/SCL_Assets/02_Lobby/Map/A02_Lobby.umap",
+				"C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch/Content/bodycamFPSkit/Maps/Map_Test.umap",
+				"C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch/Content/bodycamFPSkit/Maps/Map_Test_BuiltData.uasset",
+				"C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch/Content/bodycamFPSkit/Maps/Map_Lobby_BuiltData.uasset",
+				"C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch/Content/bodycamFPSkit/Maps/Map_Lobby.umap"
+			]
+		}
+	]
+}
