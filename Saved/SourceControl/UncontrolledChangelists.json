@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Map_Test.umap",
+				"C:/Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Map_Test_BuiltData.uasset",
+				"C:/Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Materials/Mat_Base.uasset"
+			]
+		}
+	]
+}
