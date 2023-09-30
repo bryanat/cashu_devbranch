@@ -1,3 +1,2 @@
-2023/09/29-19:17:30.530 32a8 Reusing MANIFEST C:/Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/09/29-19:17:30.531 32a8 Recovering log #3
-2023/09/29-19:17:30.531 32a8 Reusing old log C:/Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/09/29-22:33:47.882 f60 Creating DB C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch_real/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/09/29-22:33:47.896 f60 Reusing MANIFEST C:/Users/bryanat/Documents/Unreal Projects/huture_testbranch_real/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
