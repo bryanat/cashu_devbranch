@@ -9110,3 +9110,84 @@ Script Stack (1 frames) :
 [2023.10.05-10.16.06:668][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 2.20 sec)
 [2023.10.05-10.16.06:669][531]AssetCheck: New page: Asset Save: Space
 [2023.10.05-10.16.06:669][531]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Black/Space.Space
+[2023.10.05-10.18.24:405][703]BlueprintLog: New page: Compile BP_Level_Streamer_Flipflop
+[2023.10.05-10.18.24:448][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.05-10.18.28:363][919]LogSlate: Window 'BP_Level_Streamer_Flipflop' being destroyed
+[2023.10.05-10.18.31:064][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.05-10.18.31:070][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-10.18.31:180][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-10.18.31:212][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.05-10.18.31:231][ 63]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/Map_Elevator_Persistent_1
+[2023.10.05-10.18.31:232][ 63]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/Map_Elevator_Persistent_14F9952324958987D3396ADB9866921F3.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Map_Elevator_Persistent_1.umap'
+[2023.10.05-10.18.31:237][ 63]LogFileHelpers: All files are already saved.
+[2023.10.05-10.18.31:237][ 63]LogFileHelpers: Saving map 'Map_Elevator_Persistent_1' took 0.059
+[2023.10.05-10.18.31:244][ 63]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/BP_Level_Streamer_Flipflop
+[2023.10.05-10.18.31:245][ 63]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/BP_Level_Streamer_Flipflop9C9D18B74C755FC03B0A1A9ECE592E36.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/BP_Level_Streamer_Flipflop.uasset'
+[2023.10.05-10.18.31:251][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 2.38 sec)
+[2023.10.05-10.18.31:253][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.05-10.18.31:253][ 63]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Map_Elevator_Persistent_1.Map_Elevator_Persistent_1
+[2023.10.05-10.18.31:253][ 63]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bodycamFPSkit/Maps/BP_Level_Streamer_Flipflop.BP_Level_Streamer_Flipflop
+[2023.10.05-10.18.37:545][433]MapCheck: New page: Map Check
+[2023.10.05-10.18.37:621][433]Cmd: MAP REBUILD ALLVISIBLE
+[2023.10.05-10.18.37:652][433]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.10.05-10.18.37:727][433]LogWorld: UWorld::CleanupWorld for Map_Elevator_Persistent_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.37:727][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.37:727][433]LogWorld: UWorld::CleanupWorld for Map_Lobby_NoElevator_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.37:727][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.37:727][433]LogWorld: UWorld::CleanupWorld for Black_Wizz_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.37:727][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.37:727][433]LogWorld: UWorld::CleanupWorld for Space, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.37:727][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.37:728][433]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-10.18.37:744][433]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.10.05-10.18.37:744][433]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.10.05-10.18.37:744][433]MapCheck: New page: Map_Elevator_Persistent_1 - Oct 5, 2023, 2:18:37 AM
+[2023.10.05-10.18.37:745][433]MapCheck: Warning: Weapon_Pickup_Pistol_0 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2023.10.05-10.18.37:745][433]MapCheck: Warning: BP_Weapon_Pickup_AmericanRifle_0 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2023.10.05-10.18.37:745][433]MapCheck: Warning: BP_Weapon_Pickup_HeavyPistol_0 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2023.10.05-10.18.37:745][433]MapCheck: Warning: Weapon_Pickup_Pistol_0 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2023.10.05-10.18.37:745][433]MapCheck: Warning: BP_Weapon_Pickup_Shotgun_0 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2023.10.05-10.18.37:746][433]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 2.404ms to complete.
+[2023.10.05-10.18.37:746][433]LogEditorBuildUtils: Build time 0:00
+[2023.10.05-10.18.39:431][526]LogSlate: Window 'Message Log' being destroyed
+[2023.10.05-10.18.39:433][526]LogSlate: Window 'Message Log' being destroyed
+[2023.10.05-10.18.44:709][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.05-10.18.44:715][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-10.18.44:839][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-10.18.44:869][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.05-10.18.44:887][821]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/Map_Elevator_Persistent_1
+[2023.10.05-10.18.44:887][821]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/Map_Elevator_Persistent_1CB8CB94746ECCFF3E79350A6641491D6.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Map_Elevator_Persistent_1.umap'
+[2023.10.05-10.18.44:892][821]LogFileHelpers: All files are already saved.
+[2023.10.05-10.18.44:895][821]LogFileHelpers: Saving map 'Map_Elevator_Persistent_1' took 0.058
+[2023.10.05-10.18.44:895][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-10.18.44:895][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-10.18.44:896][821]LogAIModule: Creating AISystem for world Map_Lobby_NoElevator_1
+[2023.10.05-10.18.44:924][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.05-10.18.45:021][821]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/Map_Lobby_NoElevator_1
+[2023.10.05-10.18.45:022][821]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/Map_Lobby_NoElevator_142C364DC419E9105B61F1CAE7DE103D0.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Map_Lobby_NoElevator_1.umap'
+[2023.10.05-10.18.45:028][821]LogFileHelpers: All files are already saved.
+[2023.10.05-10.18.45:030][821]LogWorld: UWorld::CleanupWorld for Map_Lobby_NoElevator_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.45:030][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.45:030][821]LogFileHelpers: Saving map 'Map_Lobby_NoElevator_1' took 0.136
+[2023.10.05-10.18.45:032][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-10.18.45:032][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-10.18.45:032][821]LogAIModule: Creating AISystem for world Black_Wizz_1
+[2023.10.05-10.18.45:047][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.05-10.18.45:053][821]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/Black/Black_Wizz_1
+[2023.10.05-10.18.45:053][821]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/Black_Wizz_102D5AD7E4DED964B16DEC58A046A1D6F.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Black/Black_Wizz_1.umap'
+[2023.10.05-10.18.45:058][821]LogFileHelpers: All files are already saved.
+[2023.10.05-10.18.45:058][821]LogWorld: UWorld::CleanupWorld for Black_Wizz_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-10.18.45:058][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-10.18.45:058][821]LogFileHelpers: Saving map 'Black_Wizz_1' took 0.027
+[2023.10.05-10.18.45:071][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.05-10.18.45:073][821]LogSavePackage: Moving output files for package: /Game/bodycamFPSkit/Maps/Black/Space
+[2023.10.05-10.18.45:073][821]LogSavePackage: Moving '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Saved/SpaceA338FEE04739025595859DBEC8EF08D4.tmp' to '../../../../../../Users/bryanat/Documents/Unreal Projects/cashu_devbranch/Content/bodycamFPSkit/Maps/Black/Space.umap'
+[2023.10.05-10.18.45:078][821]LogFileHelpers: Saving map 'Space' took 0.019
+[2023.10.05-10.18.45:116][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 402 ms (total: 2.78 sec)
+[2023.10.05-10.18.45:121][821]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.05-10.18.45:121][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Map_Elevator_Persistent_1.Map_Elevator_Persistent_1
+[2023.10.05-10.18.45:121][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Map_Lobby_NoElevator_1.Map_Lobby_NoElevator_1
+[2023.10.05-10.18.45:121][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Black/Black_Wizz_1.Black_Wizz_1
+[2023.10.05-10.18.45:121][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/bodycamFPSkit/Maps/Black/Space.Space
+[2023.10.05-10.18.53:451][312]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Move World Hierarchy Items entirely.
+[2023.10.05-10.18.55:323][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Move World Hierarchy Items entirely.
