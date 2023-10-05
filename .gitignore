@@ -4,3 +4,4 @@ Saved/Logs/*
 # Ignore webcache and crash files
 Saved/webcache_4430/*
 Saved/Crashes/*
+Saved/Config/CrashReportClient/*
