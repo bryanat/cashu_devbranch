@@ -57,11 +57,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1e0699cf59d64105957b4aa40f367252"
 		},
 		{
-			"Name": "UltimateLevelArtTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ec0988f250ef49ebaf7852cdfe3e6516"
-		},
-		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
